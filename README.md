@@ -2,12 +2,18 @@ To run the project
 
 Step 1:
 go to the backend folder then in the terminal run the following command:
-node app.js
+
+1- npm install
+
+2- node app.js
 
 
 step 2:
 got to the frontend folder then in the terminal run the following command:
-npm run server
+
+1- npm install
+
+2- npm run server
 
 
 
