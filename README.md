@@ -9,7 +9,7 @@ go to the backend folder then in the terminal run the following command:
 
 
 step 2:
-got to the frontend folder then in the terminal run the following command:
+go to the frontend folder then in the terminal run the following command:
 
 1- npm install
 
