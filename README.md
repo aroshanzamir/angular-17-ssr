@@ -1,4 +1,5 @@
 To run the project 
+
 Step 1:
 go to the backend folder then in the terminal run the following command:
 node app.js
